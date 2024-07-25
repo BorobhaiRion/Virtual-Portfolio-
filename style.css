@@ -1,0 +1,69 @@
+body{
+    background:linear-gradient(rgb(38, 16, 40),rgb(17, 17, 17),rgb(18, 13, 31),rgb(24, 42, 58),rgb(46, 17, 33),rgb(20, 16, 24));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:monospace ;
+    
+}
+h1{
+
+   color: rgb(255, 255, 255);
+}
+h2{
+
+    color:whitesmoke;
+    
+}
+h3{
+    color:white;
+}
+h4{
+    color: aliceblue;
+}
+h5{
+    color: aliceblue;
+}
+h6{
+    color: aliceblue;
+}
+h8{
+    color: aliceblue;
+}
+p1{
+    align-items: right;
+    color: aliceblue;
+}
+P{
+    place-items: center;
+    color:white;
+   
+}
+p2{
+    font-size: x-large;
+}
+h7{
+    color: aliceblue;
+}
+ul{
+    color: antiquewhite;
+
+}
+table{
+    color: antiquewhite;
+}
+a{
+    color: rgb(56, 80, 212);
+}
+button{
+    background-color: crimson;
+    color: white;
+    
+
+}
+label{
+    color: aliceblue;
+}
+
+
