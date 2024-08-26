@@ -4,12 +4,13 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family:monospace ;
+    font-family: Ubuntu,monospace;
     
 }
 h1{
 
    color: rgb(255, 255, 255);
+   animation
 }
 h2{
 
@@ -29,7 +30,18 @@ h6{
     color: aliceblue;
 }
 h8{
-    color: aliceblue;
+    color: rgb(249, 249, 249);
+}
+h9{align-self:auto;
+    button{
+        background-color: crimson;
+        color: aliceblue;
+        border-radius: 15px;
+        text-align: center;
+        font-size:xx-small;
+        border-color:hotpink;
+    
+    }
 }
 p1{
     align-items: right;
@@ -56,14 +68,11 @@ table{
 a{
     color: rgb(56, 80, 212);
 }
-button{
-    background-color: crimson;
-    color: white;
-    
-
-}
 label{
     color: aliceblue;
+}
+h{
+    position: inherit;
 }
 
 
